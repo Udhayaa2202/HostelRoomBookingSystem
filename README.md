@@ -1,1 +1,2 @@
-Completed successfully
+- Completed successfully
+- Application working properly
